@@ -1,4 +1,3 @@
 # learnIOS
-Start learning IOS
 
-this repository is to show my first IOS projects 
+this repository contains my first IOS projects. let's see where it goes
